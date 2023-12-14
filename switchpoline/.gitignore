@@ -1,0 +1,7 @@
+/build
+/tmp
+/novt-lib/*.a
+/novt-lib/include
+/temp/
+__pycache__
+/.vscode/
